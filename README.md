@@ -20,3 +20,7 @@ A classic Snake game implemented in **Python** using the **turtle graphics libra
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/snake-game.git
+
+## 📸 Preview  
+
+![Snake Game Screenshot](assets/screenshot.png)
