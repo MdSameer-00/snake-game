@@ -23,4 +23,4 @@ A classic Snake game implemented in **Python** using the **turtle graphics libra
 
 ## 📸 Preview  
 
-![Snake Game Screenshot](assets/screenshot.png)
+![Snake Game Screenshot](assets/image.png)
