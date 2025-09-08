@@ -25,5 +25,5 @@ A classic Snake game implemented in **Python** using the **turtle graphics libra
 
 ![Snake Game Screenshot](assets/image.png)
 
-##💡 Inspiration
+## 💡 Inspiration
 This project is a fun way to practice Python basics, OOP concepts, and turtle graphics while recreating a nostalgic childhood game.
