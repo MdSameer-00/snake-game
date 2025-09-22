@@ -19,7 +19,7 @@ A classic Snake game implemented in **Python** using the **turtle graphics libra
 ## 🚀 How to Play  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/MohammedSameerWahab/snake-game.git
 
 ## 📸 Preview  
 
